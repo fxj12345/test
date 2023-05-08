@@ -1,0 +1,503 @@
+{
+    "name": "suicide",
+    "children": [
+        {
+            "name": "Europe",
+            "children": [
+                {
+                    "name": "5-14 years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 721
+                        },
+                        {
+                            "name": "female",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "15-24 years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 721
+                        },
+                        {
+                            "name": "female",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "25-34 years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 721
+                        },
+                        {
+                            "name": "female",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "35-54 years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 721
+                        },
+                        {
+                            "name": "female",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "55-74 years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 721
+                        },
+                        {
+                            "name": "female",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "75+ years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 0
+                        },
+                        {
+                            "name": "female",
+                            "size": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "North America",
+            "children": [
+                {
+                    "name": "5-14 years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 721
+                        },
+                        {
+                            "name": "female",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "15-24 years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 721
+                        },
+                        {
+                            "name": "female",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "25-34 years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 721
+                        },
+                        {
+                            "name": "female",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "35-54 years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 721
+                        },
+                        {
+                            "name": "female",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "55-74 years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 721
+                        },
+                        {
+                            "name": "female",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "75+ years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 0
+                        },
+                        {
+                            "name": "female",
+                            "size": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "South America",
+            "children": [
+                {
+                    "name": "5-14 years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 721
+                        },
+                        {
+                            "name": "female",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "15-24 years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 721
+                        },
+                        {
+                            "name": "female",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "25-34 years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 721
+                        },
+                        {
+                            "name": "female",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "35-54 years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 721
+                        },
+                        {
+                            "name": "female",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "55-74 years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 721
+                        },
+                        {
+                            "name": "female",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "75+ years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 0
+                        },
+                        {
+                            "name": "female",
+                            "size": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Asia",
+            "children": [
+                {
+                    "name": "5-14 years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 721
+                        },
+                        {
+                            "name": "female",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "15-24 years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 721
+                        },
+                        {
+                            "name": "female",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "25-34 years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 721
+                        },
+                        {
+                            "name": "female",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "35-54 years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 721
+                        },
+                        {
+                            "name": "female",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "55-74 years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 721
+                        },
+                        {
+                            "name": "female",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "75+ years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 0
+                        },
+                        {
+                            "name": "female",
+                            "size": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Africa",
+            "children": [
+                {
+                    "name": "5-14 years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 721
+                        },
+                        {
+                            "name": "female",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "15-24 years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 721
+                        },
+                        {
+                            "name": "female",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "25-34 years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 721
+                        },
+                        {
+                            "name": "female",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "35-54 years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 721
+                        },
+                        {
+                            "name": "female",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "55-74 years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 721
+                        },
+                        {
+                            "name": "female",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "75+ years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 0
+                        },
+                        {
+                            "name": "female",
+                            "size": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Oceania",
+            "children": [
+                {
+                    "name": "5-14 years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 721
+                        },
+                        {
+                            "name": "female",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "15-24 years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 721
+                        },
+                        {
+                            "name": "female",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "25-34 years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 721
+                        },
+                        {
+                            "name": "female",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "35-54 years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 721
+                        },
+                        {
+                            "name": "female",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "55-74 years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 721
+                        },
+                        {
+                            "name": "female",
+                            "size": 2220
+                        }
+                    ]
+                },
+                {
+                    "name": "75+ years",
+                    "children": [
+                        {
+                            "name": "male",
+                            "size": 0
+                        },
+                        {
+                            "name": "female",
+                            "size": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
